@@ -1,0 +1,1 @@
+alter table proprietario rename column fone to telefone;
